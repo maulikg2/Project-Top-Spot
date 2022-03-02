@@ -1,2 +1,1 @@
-# Maulikg2.github.io
-Data Science Exploration: Project Top Spot
+# Data Science Exploration: Project Top Spot
